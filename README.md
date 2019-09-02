@@ -110,7 +110,7 @@ on the [voncramm slack](voncramm.slack.com).
 8. Enter the directory of the repository you just cloned.
 
    ```
-   cd chore-selectoin-bot
+   cd chore-selection-bot
    ```
 
 9. Build the Haskell service.
